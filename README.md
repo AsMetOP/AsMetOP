@@ -103,7 +103,7 @@ When I'm not debugging transformer architectures at midnight, I'm thinking about
 ```python
 asmet = {
     "role"       : "Data Science Intern @ Happiest Minds",
-    "learning"   : ["Vision Transformers", "Self-Supervised Learning", "LLM Systems"],
+    "learning"   : ["Vision Transformers", "GenAI", "LLM Systems", "AgenticAI"],
     "building"   : ["DoccyAI", "Competitor Intelligence Agent (LangGraph)"],
     "obsession"  : "Systems that don't just predict — they understand",
     "end_goal"   : "Global Ontology Intelligence Engine 🌍"

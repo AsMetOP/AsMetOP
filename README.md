@@ -106,7 +106,7 @@ asmet = {
     "learning"   : ["Vision Transformers", "GenAI", "LLM Systems", "AgenticAI"],
     "building"   : ["DoccyAI", "Competitor Intelligence Agent (LangGraph)"],
     "obsession"  : "Systems that don't just predict — they understand",
-    "end_goal"   : "Global Ontology Intelligence Engine 🌍"
+    "end_goal"   : "Making my own AI just like Tony Stark, which can show emotions in real-time and act according to the situation."
 }
 ```
 

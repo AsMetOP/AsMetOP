@@ -31,7 +31,7 @@
 
 ## ⚡ About Me
 
-I'm a **3rd-year B.Tech CS student at KIIT University** with a deep obsession for intelligent systems — specifically the kind that *learn*, *see*, and *reason*. My work sits at the intersection of **Computer Vision**, **Deep Learning**, and **ML Systems Engineering**.
+I'm a **4th-year B.Tech CS student at KIIT University** with a deep obsession for intelligent systems — specifically the kind that *learn*, *see*, and *reason*. My work sits at the intersection of **Computer Vision**, **Deep Learning**, and **ML Systems Engineering**.
 
 When I'm not debugging transformer architectures at midnight, I'm thinking about my long-term mission: building a **Global Ontology Intelligence Engine** — an AI system that understands the world not just statistically, but *structurally*.
 

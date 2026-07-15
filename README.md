@@ -35,7 +35,7 @@ I'm a **4th-year B.Tech CS student at KIIT University** with a deep obsession fo
 
 When I'm not debugging transformer architectures at midnight, I'm thinking about my long-term mission: building a **Global Ontology Intelligence Engine** — an AI system that understands the world not just statistically, but *structurally*.
 
-- 🔭 &nbsp;Currently working at **Happiest Minds Technologies** as an ML Intern
+- 🔭 &nbsp;Currently working at **TBA**
 - 🛰️ &nbsp;Previously: **Terraivise** (ViT + MAE on NASA satellite imagery) | **Pinnacle Labs** (real-time lane detection)
 - 🧠 &nbsp;Deep-diving into: **Vision Transformers**, **PyTorch Lightning**, **Self-Supervised Learning**
 - 🏗️ &nbsp;Building: **DoccyAI** — a symptom-to-disease prediction platform (ML Engineer on the team)
